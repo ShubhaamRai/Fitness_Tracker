@@ -7,18 +7,17 @@ It allows users to track workouts, monitor calorie burn, and receive fitness rec
 
 The application is secured using **Spring Security with JWT (Access + Refresh Tokens)** and follows a clean **Controller → Service → Repository** layered architecture.
 
-🔗 **Live Backend URL**  
-https://fitness-app-ak5n.onrender.com
 
 ---
-
+🔗 Live Backend  Swagger URL
+https://fitness-tracker-js7g.onrender.com/swagger-ui/index.html
 ## 🚀 Tech Stack
 
 - Java 21
 - Spring Boot 4
 - Spring Security
 - JWT Authentication (Access & Refresh Tokens)
-- PostgreSQL (Neon Cloud)
+- MySQL 
 - Maven
 - Docker
 - BCrypt Password Encryption
